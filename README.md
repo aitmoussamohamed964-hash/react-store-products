@@ -30,7 +30,7 @@ Shop React est une application web développée avec React.js. Elle permet d'aff
 Cloner le projet :
 
 ```bash
-git clone URL_DU_REPOSITORY
+git clone https://github.com/aitmoussamohamed964-hash/react-store-products.git
 ```
 
 Accéder au dossier :
